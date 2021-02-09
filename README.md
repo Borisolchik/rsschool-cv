@@ -1,1 +1,1 @@
-https:// Borisolchik.io/rsschool-cv/cv
+cv.md
